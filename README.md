@@ -15,7 +15,7 @@ This is a USSD application built using [Africa's Talking](https://africastalking
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hassanayn/AfricasTalking-USSD.git
+   git clone https://github.com/hassanayn/Africastalking-USSD.git
 
 ## Install Dependencies
 npm install
